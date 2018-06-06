@@ -215,7 +215,7 @@ Solar System
 
 ### Github Repository
 
-https://github.com/FirmanAlnaufal/projeck-grafis
+*https://github.com/FirmanAlnaufal/projeck-grafis
 
 ## Group XIV
 
